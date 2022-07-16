@@ -12,7 +12,6 @@ Hello! I made this basic quiz app to get more practice with JavaScript/HTML/CSS.
   
 ## HTML
   - google fonts
-  - 
 
 ## CSS
   - *, *::before, *::after {box-sizing: border-box}
